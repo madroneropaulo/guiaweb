@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [testFile](testfile.md)
-* Arquitectura
+* [Arquitectura](flux.md)
 
